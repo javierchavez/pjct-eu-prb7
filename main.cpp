@@ -1,14 +1,12 @@
 /*
 Name Javier Chavez
 email jchavez589@cnm.edu
-oct 31,2012
+June 26, 2013
 */
 
 
 #include <iostream>
 #include <math.h>
-
-//#include "hr_time.h"
 
 using namespace std;
 
